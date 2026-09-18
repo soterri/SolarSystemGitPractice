@@ -11,6 +11,15 @@ public class SolarSystem {
 		BB.Sun="1";
 		System.out.println("Solar System is Ready");
 		
+		FeatureSun sun = new FeatureSun();
+		sun.temp="4545454";
+		sun.color="yellow";
+		sun.Radius="fhgjfhrg465265";
+		
+		Planet1 p1 = new Planet1();
+		p1.color="green";
+		p1.radius="545454";
+		
 		
 		
 	}
