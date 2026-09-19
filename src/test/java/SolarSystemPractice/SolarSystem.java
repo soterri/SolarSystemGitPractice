@@ -11,7 +11,7 @@ public class SolarSystem {
 		BB.Sun="1";
 		System.out.println("Solar System is Ready");
 		
-		
+		//editing for planet2 under SophyGit for practice for cloning and merging and branching
 		
 	}
 
